@@ -38,6 +38,9 @@ This project is a take-home coding challenge for a mid-level Laravel engineering
 - Allow users to withdraw funds **only after** the lock period has passed.
 - Withdrawal amount should be the **initial investment + accrued interest**.
 
+
+### 6. **Notifications**
+- Send the user email notofications when they register, invest and withdraw their investment.
 ---
 
 ## 🎁 Bonus Features (Optional)

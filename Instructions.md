@@ -40,7 +40,7 @@ This project is a take-home coding challenge for a mid-level Laravel engineering
 
 
 ### 6. **Notifications**
-- Send the user email notofications when they register, invest and withdraw their investment.
+- Send the user email notifications when they register, invest and withdraw their investment.
 ---
 
 ## 🎁 Bonus Features (Optional)

@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This project is a take-home coding challenge for a mid-level Laravel engineering role at a fintech company. The goal is to build a simplified **Micro-Investment Platform** with a RESTful API, where users can invest in predefined plans with specific return rates and lock periods.
+This project is a take-home coding challenge for a mid-level Laravel engineering role at a Ensibuuko. The goal is to build a simplified **Micro-Investment Platform** with a RESTful API, where users can invest in predefined plans with specific return rates and lock periods.
 
 ---
 
